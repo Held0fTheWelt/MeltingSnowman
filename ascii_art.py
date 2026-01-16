@@ -20,7 +20,7 @@ STAGES = [
     # Stage 1: Arms melting
     r"""
      *     *
-         gi  ___   *
+           ___   *
      *   _|___|_      *
 *       '=/a a\='  *
     *     \~_ /        *
